@@ -26,4 +26,4 @@ ls
 
 git pull
 
-python prembre.py
+python premiumbre.py
